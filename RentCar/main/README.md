@@ -8,7 +8,3 @@ Salutare
 - npx expo install react-native-gesture-handler
 - npm install react-native-gesture-handler
 - npm install firebase
-
-## Teoretic si astea da inca nu merge graficul:
-- npm install react-native-chart-kit
-- npm install react-native-svg
